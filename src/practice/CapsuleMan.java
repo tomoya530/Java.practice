@@ -20,4 +20,5 @@ public class CapsuleMan {
 	public String getName() {
 		return this.name;
 	}
+	
 }   
